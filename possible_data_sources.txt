@@ -5,7 +5,7 @@ dxFeed
 
 
 https://www.alphavantage.co/
-- 
+- E9L65Z7S624EYUA5
 
 Bigdata.com
 - requested API Key on Nov 10th
