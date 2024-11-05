@@ -1,0 +1,13 @@
+dxFeed
+- dxFeed covers all US equities.
+- Supported market data feeds include Nasdaq TotalView (full depth), Cboe/EDGX (full depth), and NBBO. However, ARCA and other ECNs are not included in dxFeed's market depth data, which may result in order book discrepancies.
+
+
+
+https://www.alphavantage.co/
+- 
+
+Bigdata.com
+- requested API Key on Nov 10th
+- they responded Nov 11 asking WHY
+- I responded Nov 11 ('this is for me and for a data science project/data engineering project')
