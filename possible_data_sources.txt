@@ -6,6 +6,7 @@ dxFeed
 
 https://www.alphavantage.co/
 - E9L65Z7S624EYUA5
+https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=1min&outputsize=full&apikey=E9L65Z7S624EYUA5&adjusted=false
 
 Bigdata.com
 - requested API Key on Nov 10th
